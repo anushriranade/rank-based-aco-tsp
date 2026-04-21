@@ -1,4 +1,4 @@
-\# Rank-Based Ant Colony Optimization — TSP
+Rank-Based Ant Colony Optimization — TSP
 
 
 
@@ -6,7 +6,7 @@ A Streamlit dashboard visualizing the Rank-Based Ant System (RAS) for the Travel
 
 
 
-\## Run locally
+Run locally
 
 pip install -r requirements.txt
 
